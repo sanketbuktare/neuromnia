@@ -4,6 +4,10 @@
 
 ## Prerequisites
 
+## Hi Bro This is Vishnu Vardhan , I recently came to know that shoshin.tech is looking for the Frontend Intern Role bro can you help me to get an interview from shoshin
+## Bro this is my please msg me if your free `+91 9542614017` , Please bro looking forward to you message
+## You can check my github profile also bro `https://github.com/Vishu0106`
+
 - [Node.js](https://nodejs.org/) (v16 or later recommended)
 - [MongoDB](https://www.mongodb.com/) (Local or remote instance)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) for package management
